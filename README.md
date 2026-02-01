@@ -3,7 +3,8 @@
 
 ## Day 1 – Nervous System Basics
 
-Today I studied the basics of the nervous system using CrashCourse Anatomy & Physiology.
+Today I studied the basics of the nervous system from YOUYube course.
+This topic was familiar to me, I studied in high school.
 
 ### What I learned:
 - The nervous system has two main parts: Central Nervous System (CNS) and Peripheral Nervous System (PNS)

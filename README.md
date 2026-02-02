@@ -25,8 +25,8 @@ This topic was familiar to me, I studied in high school.
 - That variable values can be changed during execution
 - Python print the last variable
 
-### Simple examples:
-```python
+Simple examples:
+###python
 name = "fatima"
 print(name)
 
@@ -35,3 +35,15 @@ print(age)
 
 age = age + 1
 print(age)
+
+## Neuroscience – Day 2
+
+### Topics:
+- Electrical properties of neurons
+- Resting potential, depolarization, repolarization, and hyperpolarization
+- Action potential
+- Myelinated axons and saltatory conduction
+- Refractory period
+
+### My understanding:
+Neurons have a resting potential of about -70 mV. When sodium channels open, the neuron depolarizes and can reach about +40 mV during an action potential. After that, repolarization and hyperpolarization occur. Myelinated axons transmit signals faster through nodes of Ranvier using saltatory conduction. The refractory period is a time when the neuron cannot fire again, even if the stimulus is strong.

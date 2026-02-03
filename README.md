@@ -47,3 +47,21 @@ print(age)
 
 ### My understanding:
 Neurons have a resting potential of about -70 mV. When sodium channels open, the neuron depolarizes and can reach about +40 mV during an action potential. After that, repolarization and hyperpolarization occur. Myelinated axons transmit signals faster through nodes of Ranvier using saltatory conduction. The refractory period is a time when the neuron cannot fire again, even if the stimulus is strong.
+## Python – Day 2
+- Reviewed variables and print
+- Learned input()
+- Understood difference between input and variable
+- Learned that input returns string
+
+- ## Neuroscience – Day 3
+- Studied neuron structure in detail:
+  - Soma (cell body), nucleus, cytoplasm
+  - Mitochondria, endoplasmic reticulum, ribosomes
+- Reviewed functions of dendrites and axon
+- Learned about glial cells and their roles:
+  - Astrocytes (support, metabolism, BBB)
+  - Oligodendrocytes (myelination in CNS)
+  - Schwann cells (myelination in PNS)
+  - Microglia (immune defense)
+- Understood differences between glial cells in CNS vs PNS
+- 

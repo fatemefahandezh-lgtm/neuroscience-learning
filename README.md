@@ -82,3 +82,6 @@ Neurons have a resting potential of about -70 mV. When sodium channels open, the
 - Focused on how neural signals are transmitted across the synaptic cleft
 - Learned about excitatory and inhibitory postsynaptic potentials (EPSP and IPSP)
 - Understood how neurons integrate multiple EPSP and IPSP signals to decide whether to fire an action potential
+- Learned how experience and repetition reshape neural connections
+- Understood neuroplasticity as a functional change, not just structural
+- Connected plasticity to synaptic strengthening and weakening

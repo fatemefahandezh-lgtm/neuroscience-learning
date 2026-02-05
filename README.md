@@ -85,3 +85,26 @@ Neurons have a resting potential of about -70 mV. When sodium channels open, the
 - Learned how experience and repetition reshape neural connections
 - Understood neuroplasticity as a functional change, not just structural
 - Connected plasticity to synaptic strengthening and weakening
+
+## Day 4 – Python (Basics + Mini Cognitive Task)
+
+Today I practiced Python basics through a small interactive program.
+
+### Concepts I worked on:
+- `print()` for output
+- `input()` for user interaction
+- Variables and data types
+- `int()` for type conversion
+- `if / else` conditional logic
+- `for` loop
+- Measuring time using `time.time()`
+- Lists (`append`) to store data
+
+### What I built:
+- A simple loop-based task that asks the user a yes/no question
+- Measured reaction time for each answer
+- Stored user answers in a list
+- Stored reaction times in a separate list
+- Calculated a final score based on correct answers
+
+This was my first step toward building simple cognitive experiments using Python.

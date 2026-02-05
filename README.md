@@ -65,3 +65,12 @@ Neurons have a resting potential of about -70 mV. When sodium channels open, the
   - Microglia (immune defense)
 - Understood differences between glial cells in CNS vs PNS
 - 
+## Python – Day 3
+- Learned conditional statements:
+  - if
+  - else
+  - elif
+- Understood how Python makes decisions based on conditions
+- Practiced using comparison operators (>, <, >=, ==)
+- Learned basic loops (for / concept of repetition)
+- Faced and fixed common errors related to indentation and syntax

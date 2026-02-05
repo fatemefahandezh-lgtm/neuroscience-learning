@@ -74,3 +74,11 @@ Neurons have a resting potential of about -70 mV. When sodium channels open, the
 - Practiced using comparison operators (>, <, >=, ==)
 - Learned basic loops (for / concept of repetition)
 - Faced and fixed common errors related to indentation and syntax
+
+## Neuroscience – Day 4
+- Studied synaptic communication between neurons
+- Learned the structure and function of synapses
+- Understood the difference between electrical and chemical synapses
+- Focused on how neural signals are transmitted across the synaptic cleft
+- Learned about excitatory and inhibitory postsynaptic potentials (EPSP and IPSP)
+- Understood how neurons integrate multiple EPSP and IPSP signals to decide whether to fire an action potential

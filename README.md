@@ -108,3 +108,22 @@ Today I practiced Python basics through a small interactive program.
 - Calculated a final score based on correct answers
 
 This was my first step toward building simple cognitive experiments using Python.
+
+## Day 5 – Neuroscience (Review & Consolidation)
+
+Today I focused on reviewing and consolidating core neuroscience concepts.
+
+### Topics reviewed:
+- Structure of the nervous system (CNS vs PNS)
+- Afferent and efferent pathways
+- Neuron structure (soma, dendrites, axon)
+- Types of neurons (multipolar, bipolar, unipolar)
+- Glial cells and their functions
+- Resting membrane potential
+- Action potential (depolarization, repolarization, hyperpolarization)
+- Myelination and saltatory conduction
+- Refractory period
+- EPSP and IPSP (basic synaptic integration)
+The goal of today was to strengthen foundational understanding before moving forward.
+- Synapse structure (presynaptic and postsynaptic neurons)
+- Basic synaptic transmission mechanisms

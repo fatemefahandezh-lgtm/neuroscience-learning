@@ -127,3 +127,18 @@ Today I focused on reviewing and consolidating core neuroscience concepts.
 The goal of today was to strengthen foundational understanding before moving forward.
 - Synapse structure (presynaptic and postsynaptic neurons)
 - Basic synaptic transmission mechanisms
+
+## Day 6 – Neuroscience (From Action Potential to Brain Signals)
+
+Today I studied advanced concepts related to action potential generation, propagation, and their relationship to brain-level signals.
+
+### Topics covered:
+- Axon hillock and spike-triggering zone
+- Refractory period and its functional role
+- Nodes of Ranvier and saltatory conduction
+- Myelination and its disruption in Multiple Sclerosis (MS)
+- Neural oscillations and their functional significance
+- Basics of EEG and what it measures
+- Introduction to the Hodgkin–Huxley dynamic model of action potential
+
+This session helped me connect single-neuron electrophysiology to large-scale brain activity.

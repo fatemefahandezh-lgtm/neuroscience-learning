@@ -31,3 +31,22 @@ Reading and familiarization (no deep memorization yet).
 ## Study note
 - Focused on understanding the general role of each structure.
 - Detailed mechanisms and pathways will be reviewed in later days.
+
+- ## Day 8 – Review & Progress
+
+### 📚 Study Summary
+- Reviewed **Chapter 1** (Functional localization & core principles of neural science)
+- Completed **Chapter 2** (Nerve Cells and Behavior)
+
+### 🧠 Key Concepts Covered
+- Structure of neurons (soma, dendrites, axon, synapse)
+- Action potentials and membrane potential
+- Synaptic transmission
+- Reflex circuits (knee-jerk reflex)
+- Neural networks and divergence/convergence
+- Neural plasticity and its role in behavior
+
+### 🎯 Main Insight
+Behavior emerges from **networks of neurons**, not single cells.  
+Brain plasticity allows modification of neural connections, enabling learning and partial recovery after injury.
+

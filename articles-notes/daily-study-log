@@ -178,3 +178,57 @@ Reading and familiarization (no deep memorization yet).
 ## Study note
 - Focused on understanding the general role of each structure.
 - Detailed mechanisms and pathways will be reviewed in later days.
+
+## Day 8 – Kandel | Chapter 2: Cells of the Nervous System
+
+Today I studied Chapter 2 of *Principles of Neural Science (Kandel)*, focusing on the cellular components of the nervous system.
+
+### Key Topics
+- **Neurons:**  
+  Specialized cells responsible for information processing and transmission.
+- **Glial cells:**  
+  Support neuronal function (astrocytes, oligodendrocytes, microglia).
+- **Neuron structure:**  
+  Dendrites, soma, axon, synapse.
+- **Functional properties:**  
+  Electrical excitability and signal transmission.
+
+### Key Takeaway
+Neurons and glial cells work together as the fundamental biological units underlying all brain functions and behavior.
+
+## Day 9 – Kandel | Chapter 3: Electrical Properties of Neurons
+
+Today I studied Chapter 3 of *Principles of Neural Science (Kandel)*, focusing on the electrical basis of neuronal signaling.
+
+### Key Topics
+- **Resting membrane potential:**  
+  Created by ion concentration gradients and selective membrane permeability.
+- **Action potential:**  
+  Rapid, all-or-none electrical signal used for long-distance communication.
+- **Ion channels:**  
+  Voltage-gated and ligand-gated channels regulate neuronal excitability.
+- **Signal propagation:**  
+  Action potentials travel along the axon without decrement.
+
+### Key Takeaway
+Electrical signaling is the core mechanism that allows neurons to encode, transmit, and integrate information.
+
+## Day 10 – Research Methods in Cognitive Neuroscience
+
+Today I studied the main experimental methods used to investigate behavior and its neural correlates in cognitive neuroscience.
+
+### Neuroimaging Techniques
+- **fMRI:** Measures brain activity indirectly via blood oxygenation (BOLD signal).
+- **PET:** Uses radioactive tracers to assess metabolic and neurochemical activity.
+
+### Electrophysiological Methods
+- **EEG / MEG:** High temporal resolution recordings of brain activity.
+- **EMG:** Measures muscle activity related to emotion and movement.
+
+### Other Approaches
+- **Psychophysiology:** ECG, EDA, EMG as indirect measures of cognition and emotion.
+- **Brain stimulation:** TMS and tES for causal brain–behavior investigation.
+- **Patients, animal models, pharmacology:** Complementary research strategies.
+
+### Key Takeaway
+Combining multiple methods provides a more complete understanding of how brain activity gives rise to behavior.

@@ -1,0 +1,39 @@
+## Day 10 – Research Methods in Cognitive Neuroscience
+
+Today I studied the main experimental methods used to investigate behavior and its neural correlates in cognitive neuroscience.
+
+### Neuroimaging Techniques
+- **fMRI (Functional Magnetic Resonance Imaging)**  
+  Measures brain activity indirectly via blood oxygenation (BOLD signal).  
+  High spatial resolution, low temporal resolution.
+- **PET (Positron Emission Tomography)**  
+  Uses radioactive tracers to measure metabolic and neurochemical activity.  
+  Invasive, with low temporal resolution.
+
+### Electrophysiological Methods
+- **EEG / MEG**  
+  Record electrical or magnetic brain activity from the scalp.  
+  High temporal resolution, limited spatial precision.
+- **EMG (Electromyography)**  
+  Measures muscle activity and is useful for studying emotional and motor responses.
+
+### Psychophysiology
+- Measures physiological consequences of cognitive and emotional processes:
+  - ECG (heart activity)
+  - EDA (skin conductance)
+  - EMG (muscle activation)
+- Provides indirect indices of neural activity.
+
+### Non-Invasive Brain Stimulation
+- **TMS (Transcranial Magnetic Stimulation)**  
+  Used to stimulate or temporarily disrupt specific brain areas to study causal brain–behavior relationships.
+- **tES (e.g., tDCS)**  
+  Modulates cortical excitability using weak electrical currents.
+
+### Additional Research Approaches
+- **Patient studies:** Effects of brain lesions on cognition and behavior.
+- **Animal models:** Controlled investigation of neural mechanisms.
+- **Pharmacological manipulations:** Effects of drugs and hormones on brain and behavior.
+
+### Key Takeaway
+Each method has limitations, but combining multiple approaches provides a more complete understanding of how brain activity gives rise to behavior.

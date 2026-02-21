@@ -1,0 +1,32 @@
+The file TMS.pdf provides a comprehensive overview of Transcranial Magnetic Stimulation (TMS), covering its history, biological mechanisms, research applications, and clinical uses.
+1. What is TMS?
+Transcranial Magnetic Stimulation (TMS) is a non-invasive neurophysiological technique used to stimulate specific areas of the brain.
+ * Mechanism: It uses a stimulator called a coil placed on the scalp to apply a transient magnetic field.
+ * Electromagnetic Induction: This magnetic field crosses the scalp and induces an electrical current in the underlying neural tissue.
+ * Neural Effect: The electrical current causes neuronal depolarization, essentially "firing" the neurons in that targeted area.
+2. Capabilities and Precision
+ * Temporal Resolution: TMS has excellent temporal accuracy (about 1 millisecond), allowing researchers to know exactly when a brain area is involved in a task.
+ * Spatial Resolution: It can target areas within approximately 1~cm^{2}. The precision depends on the coil shape:
+   * Figure-8 Coil: Highly focal and targets a small portion of the cortex.
+   * Circular Coil: Not focal; stimulates larger areas.
+3. Measuring the Response
+Scientists measure the effects of TMS through several methods:
+ * Motor Evoked Potentials (MEPs): If the motor cortex (M1) is stimulated, it causes a muscle twitch that can be recorded using an EMG.
+ * Behavioral Changes: Observing how TMS speeds up or slows down a person's performance on a task.
+ * Neuroimaging: Combining TMS with EEG, PET, or fMRI to see changes in brain activity and metabolism.
+4. Key Applications
+Research (Mapping the Brain)
+ * Virtual Lesions: By temporarily interfering with neural activity during a task, researchers can establish a causal link between a brain region and a specific behavior.
+ * Cognitive Functions: It has been used to study math performance (parietal lobe), emotional recognition (S1), and moral judgment (right prefrontal cortex).
+ * Chronometry: Determining the exact millisecond a brain area is required for stimulus detection.
+Clinical Practice
+ * Depression: FDA-approved since 2008. It involves excitatory stimulation of the left prefrontal cortex to help regulate emotions.
+ * Stroke Recovery: TMS can be used to inhibit a healthy hemisphere or excite a damaged one to encourage neuroplasticity and recovery.
+ * Diagnostics: Analyzing MEPs can provide clinical insights into disorders like Parkinson's disease or Multiple Sclerosis.
+5. Safety and Risks
+While generally safe and low-cost, there are specific risks:
+ * Seizures: High-frequency stimulation can potentially trigger an epileptic attack.
+ * Discomfort: Online stimulation can be annoying due to a loud "click" sound or skin sensations.
+ * Screening: A strict 18-question screening questionnaire is required to ensure subjects do not have metal implants (pacemakers, plates), history of epilepsy, or pregnancy [cite: 32-51].
+Summary "Take-Home Message"
+[cite_start]TMS is a powerful tool for mapping cognitive functions and affective states. It can influence performance, induce neuroplasticity, and serves as a vital resource for both neuroscience research and the rehabilitation of psychiatric and neurological disorders.
